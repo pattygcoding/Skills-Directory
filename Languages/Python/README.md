@@ -20,3 +20,8 @@ Welcome to my collection of work in Python!
 
 ### Turing Machine
 - [Turing Machine in Python](https://github.com/pattygcoding/Turing-Machines/tree/main/Python)
+
+### Interop Work
+- [Python with C++](https://github.com/pattygcoding/Interop-Samples/tree/main/Python/Python%20with%20C%2B%2B)
+- [Python with Java](https://github.com/pattygcoding/Interop-Samples/tree/main/Python/Python%20with%20Java)
+- [Python with Prolog](https://github.com/pattygcoding/Interop-Samples/tree/main/Python/Python%20with%20Prolog)
