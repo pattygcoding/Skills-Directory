@@ -1,7 +1,7 @@
 # Python Work by Patrick Goodwin
 Welcome to my collection of work in Python!
 
-## Projects:
+## Projects
 ### The Official PattyGCoding Python Scripts Github Library
 - [Python Scripts by Patrick Goodwin](https://github.com/pattygcoding/Python-Scripts)
 
