@@ -6,7 +6,9 @@ Welcome to my collection of work in Python!
 - [Python Scripts by Patrick Goodwin](https://github.com/pattygcoding/Python-Scripts)
 
 ### Rijandel Encryption
-- [Rijandel Encryption in Python](https://github.com/pattygcoding/Rijandel-Encryption/Python)
+- [Rijandel Encryption in Python (128-bit)](https://github.com/pattygcoding/Rijandel-Encryption/tree/main/Python/128bit)
+- [Rijandel Encryption in Python (192-bit)](https://github.com/pattygcoding/Rijandel-Encryption/tree/main/Python/192bit)
+- [Rijandel Encryption in Python (256-bit)](https://github.com/pattygcoding/Rijandel-Encryption/tree/main/Python/256bit)
 
 ### Resume PDF Generator On-Demand
 - [Resume PDF Generator](https://github.com/pattygcoding/PDFBuilderPublic)
