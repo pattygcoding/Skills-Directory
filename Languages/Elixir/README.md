@@ -1,7 +1,7 @@
 # Elixir Work by Patrick Goodwin
 Welcome to my collection of work in Elixir!
 
-## Projects:
+## Projects
 
 ### Connect Four
 - [Connect Four in Elixir](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/elixir)
