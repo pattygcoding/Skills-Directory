@@ -2,7 +2,7 @@
 Welcome to my collection of work in Python!
 
 ## Projects:
-### The Official Pattygcoding Python Scripts Github Library
+### The Official PattyGCoding Python Scripts Github Library
 - [Python Scripts by Patrick Goodwin](https://github.com/pattygcoding/Python-Scripts)
 
 ### Rijandel Encryption
