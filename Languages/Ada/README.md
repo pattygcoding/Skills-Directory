@@ -1,7 +1,7 @@
 # Ada Work by Patrick Goodwin
 Welcome to my collection of work in Ada!
 
-## Projects:
+## Projects
 
 ### Connect Four
 - [Connect Four in Ada](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/ada)
