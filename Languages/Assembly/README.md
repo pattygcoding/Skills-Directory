@@ -1,7 +1,7 @@
 # Assembly Work by Patrick Goodwin
 Welcome to my collection of work in Assembly!
 
-## Projects:
+## Projects
 
 ### Connect Four
 - [Connect Four in x64 Assembly](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/assembly/x64)
