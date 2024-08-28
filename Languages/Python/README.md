@@ -14,6 +14,7 @@ Welcome to my collection of work in Python!
 ### Connect Four Language Tree
 - [Connect Four in Django](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/python/django)
 - [Connect Four in IronPython](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/python/IronPython)
+- [Connect Four in Python](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/python)
 - [Connect Four in Python with JSON](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/python/json)
 - [Connect Four in Python with Minimax AI](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/python/ai)
 - [Connect Four in Python with Tkinter](https://github.com/pattygcoding/Connect-Four-Language-Tree/tree/main/python/tkinter)
