@@ -11,7 +11,7 @@ Welcome to my collection of work in Assembly!
 - [Turing Machine in x64 Assembly](https://github.com/pattygcoding/Turing-Machines/tree/main/Assembly/64bit)
 - [Turing Machine in x86 Assembly](https://github.com/pattygcoding/Turing-Machines/tree/main/Assembly/32bit)
 
-### Interop Work:
+### Interop Work
 - [C with x64 Assembly](https://github.com/pattygcoding/Interop-Samples/tree/main/C/C%20with%20Assembly%20(64bit))
 - [C with x86 Assembly](https://github.com/pattygcoding/Interop-Samples/tree/main/C/C%20with%20Assembly%20(32bit))
 - [C++ with x64 Assembly](https://github.com/pattygcoding/Interop-Samples/tree/main/C%2B%2B/C%2B%2B%20with%20Assembly%20(64bit))
